@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shafwan</h1>
 <h3 align="center">It's nice to explore the digital world and learn many things</h3>
-- 🌱 I’m currently learning **Laravel, NextJS, etc**
+- 🌱 I’m currently learning **Laravel, NextJS, Android Studio Kotlin, etc**
 
 
 
