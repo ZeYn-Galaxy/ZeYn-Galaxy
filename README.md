@@ -73,6 +73,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ZeYn-Galaxy/ZeYn-Galaxy/output/snake.svg" alt="Snake animation" />
-
 ###
